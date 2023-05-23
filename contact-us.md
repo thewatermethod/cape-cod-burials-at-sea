@@ -13,7 +13,7 @@ layout: base.njk
 		<div class="nf-before-form"><nf-section>
 	
 </nf-section></div>
-		<div class="nf-form-layout"><form netlify>
+		<div class="nf-form-layout"><form name="contact-form" netlify>
 		<div>
 			<div class="nf-before-form-content"><nf-section>
     <div class="nf-form-fields-required">Fields marked with an <span class="ninja-forms-req-symbol">*</span> are required</div>

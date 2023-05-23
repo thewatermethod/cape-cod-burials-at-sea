@@ -14,7 +14,7 @@ layout: base.njk
 	<div class="nf-form-wrap ninja-forms-form-wrap">
 
     	<div class="nf-form-layout">
-        <form netlify>
+        <form name="authorization-form" netlify>
     	<div>
     		<div class="nf-before-form-content">
     <div class="nf-form-fields-required">Fields marked with an <span class="ninja-forms-req-symbol">*</span> are required</div>
